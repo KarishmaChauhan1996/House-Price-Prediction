@@ -68,7 +68,7 @@ By the end, we develop a model that can estimate property prices with good accur
 | Model             | Best Score                              |
 | ------------------ | ---------------------------------- |
 | linear_regression           | 0.829717                              |
-| lasso      | lasso	0.672900	                             |
+| lasso      | 	0.672900	                             |
 | decision_tree  | 0.672900                               |
 
 ## Future Enhancements
