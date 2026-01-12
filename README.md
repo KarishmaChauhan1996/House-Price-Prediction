@@ -16,7 +16,7 @@ By the end, we develop a model that can estimate property prices with good accur
 
 ## Data Overview
 
-- Source: TODO: e.g., Kaggle “House Prices: Advanced Regression Techniques” or custom dataset
+- Source: “House Prices: Advanced Regression Techniques”
 - Target Variable: Price (continuous)
 - Sample Features: Lot area, Year built, Number of bedrooms, Bathrooms, Square footage, Location/neighborhood, Garage size, etc.
     
